@@ -25,9 +25,9 @@ public class DetailsActivity extends Activity {
 //		String name = intent.getStringExtra(Extras.EXTRA_NAME);
 //		String email = intent.getStringExtra(Extras.EXTRA_EMAIL);
 //		String phone = intent.getStringExtra(Extras.EXTRA_PHONE);
-
-		mNameTextView.setText(name);
-		mEmailTextView.setText(email);
-		mPhoneTextView.setText(phone);
+//
+//		mNameTextView.setText(name);
+//		mEmailTextView.setText(email);
+//		mPhoneTextView.setText(phone);
 	}
 }
