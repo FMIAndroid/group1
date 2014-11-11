@@ -26,12 +26,7 @@
         </activity>
         <activity
             android:name=".SecondActivity"
-            android:label="@string/title_activity_second"
-            android:parentActivityName=".MainActivity" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.unisofia.fmi.storageexample.MainActivity" />
-        </activity>
+            android:label="@string/title_activity_second" />
     </application>
 
 </manifest>
