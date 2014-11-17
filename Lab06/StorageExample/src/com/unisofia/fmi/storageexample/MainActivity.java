@@ -113,7 +113,6 @@ public class MainActivity extends Activity implements OnClickListener {
 		try {
 			fos = new FileOutputStream(file);
 			fos.write(text.getBytes());
-			fos.close();
 		} catch (IOException e) {
 			e.printStackTrace();
 		} finally {
