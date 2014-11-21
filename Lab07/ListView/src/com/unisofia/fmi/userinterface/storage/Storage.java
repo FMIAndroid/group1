@@ -30,7 +30,4 @@ public final class Storage {
 	public List<User> getUsers() {
 		return mUsers;
 	}
-	
-	
-
 }
