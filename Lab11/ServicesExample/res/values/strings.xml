@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ServicesExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="started_service_example">Started Service Example</string>
+    <string name="bounded_service_example">Bounded Service Example</string>
+
+</resources>
